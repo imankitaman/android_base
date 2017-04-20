@@ -19,7 +19,7 @@ public class BaseManager {
 
 
     //dummy
-   /* public Observable<ServerResponse<User>> signInUser(@NonNull User user, @NonNull NetworkViewModel.NetworkState networkState) {
+  /*  public Observable<ServerResponse<User>> signInUser(@NonNull User user, @NonNull NetworkViewModel.NetworkState networkState) {
 
         Map<String, String> userData = new HashMap<>();
         userData.put("primaryContact", user.getPrimaryContact());
